@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+title: "[FIUBA] - TDL/TDP"
+description: Sitio de las materias Teoría de lenguaje / Teoría de la programación
+show_downloads: true
+google_analytics:
+theme: 
